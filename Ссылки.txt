@@ -1,0 +1,8 @@
+Всё, что нужно знать о REST и SOAP: гайд для тестировщика
+https://vc.ru/dev/563668-vse-chto-nuzhno-znat-o-rest-i-soap-gayd-dlya-testirovshchika
+
+Разница между SoapUI и Postman
+https://translated.turbopages.org/proxy_u/en-ru.ru.724ce6d1-65018da8-ff40e80a-74722d776562/https/www.geeksforgeeks.org/difference-between-soapui-and-postman/
+
+Сравнение Oracle VirtualBox и VMware Workstation
+https://vm-guru.com/news/virtualbox-vs-vmware-workstation
